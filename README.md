@@ -6,3 +6,5 @@ Welcome! This is just a test code, not something important, if you have any comm
 My goal is to build a simple website that moves to other websites when you click certain parts in it.
 
 If you can help in anyway, please let me know, I would appreciate it.
+
+Thanks.
